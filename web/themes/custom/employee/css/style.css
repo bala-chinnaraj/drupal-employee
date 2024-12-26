@@ -1,0 +1,110 @@
+/* --------------- { FONT IMPORT // GOTHAM } --------------- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.logo_section {
+    text-align: center;
+    font-size: 24px;
+    padding: 60px;
+    background: lightgray;
+}
+.logo_section a {
+    text-decoration: none;
+    color: #000;
+}
+.d-flex.justify-content-between.align-items-center {
+    margin: 0 auto;
+}
+.slide__caption {
+    padding: 0 !important;
+}
+.slick-slide img {
+    width: 100%;
+    height: 75vh;
+    object-fit: cover;
+  }
+  .path-frontpage div#block-employee-content {
+    display: none;
+}
+.view-employee .view-header a {
+    padding: 10px 20px;
+    background: cornflowerblue;
+    display: block;
+    width: 250px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.view-employee .js-form-item.form-item {
+    width: 23%;
+    float: left;
+    margin-right: 25px;
+}
+
+
+.view-employee .js-form-item.form-item label {
+    margin-bottom: 10px;
+}
+
+.view-employee .js-form-item.form-item input, .js-form-item.form-item select {
+    height: 41px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    border-color: #cdcdcd;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+}
+
+
+.view-employee table.views-table.views-view-table.cols-7 {
+    width: 100%;
+    padding: 20px;
+}
+.view-employee table.views-table.views-view-table.cols-7 {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #cdcdcd;
+    margin-top: 50px;
+}
+.view-employee table.views-table.views-view-table.cols-7 th, .view-employee table.views-table.views-view-table.cols-7 td {
+    padding: 20px;
+    border-bottom: 1px solid #cdcdcd;
+}
+.path-frontpage header.header {
+    margin-bottom: 0;
+  }
+header.header {
+    border-bottom: 1px solid #cdcdcd;
+    margin-bottom: 40px;
+}
+.view-employee .form-actions input {
+    padding: 5px 20px;
+    background: cornflowerblue;
+    display: block;
+    width: auto;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 0;
+}
+
+#node-employee-form .form-item label {
+    width: 100%;
+    margin-top: 10px;
+  }
+  #node-employee-form .form-item input, #node-employee-form .form-item select {
+    width: 50%;
+    margin-bottom: 20px;
+    border: 1px solid #cdcdcd;
+    height: 35px;
+    border-radius: 5px;
+  }
+  .js-form-item.form-item.js-form-type-vertical-tabs.form-type-vertical-tabs.js-form-item-.form-item-.form-no-label {
+    display: none;
+  }

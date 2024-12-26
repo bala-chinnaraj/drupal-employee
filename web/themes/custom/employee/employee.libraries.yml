@@ -1,0 +1,23 @@
+global-styling:
+  version: VERSION
+  js:
+    js/global.js: {}
+  css:
+    component:
+      css/style.css: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/once
+  
+bootstrap_cdn:
+  js:
+    //cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js: {}
+  css:
+    component:
+      //cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css: {}
+  dependencies:
+    - core/popperjs
+    - core/jquery
+    - core/drupal
+    - core/once
